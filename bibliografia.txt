@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ECHO est  activado.
+=======
+Scott Chacon and Ben Straub. Pro git Apress Ryan Hodson.Rys git tutorial.Smashwords(2014) 
+>>>>>>> bibliografia
