@@ -1,1 +1,1 @@
-chacon, S. and Straub, B. Pro Git. Apress. 
+ECHO est  activado.
