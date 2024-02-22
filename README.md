@@ -70,7 +70,7 @@ Ejercicio 4
 
 Vamos al repositorio /Libro-git Le damos al botón Fork que se encuentra a la derecha de la pantalla, para copiar el repositorio. git clone + url del repositorio crear una rama llamada autoria git checkout -b autorio echo algo que poner >> autores.txt git add . git commit -m "Añadir nuevo autor" git piush origin autoria Vamos al repositorio y le damos al compare y pull reques y esperamos, cuando se complete la solicitud le damos a pull request.
 
-Quienta práctica:EJERCICIOS DE DESHACER CAMBIOS
+Quínta práctica: EJERCICIOS DE DESHACER CAMBIOS
 
 Ejercicio 1
 
